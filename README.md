@@ -57,6 +57,6 @@ See `requirements.txt`. Key packages:
 
 ## 📬 Contact
 
-Built by [Your Name] at Sky High International Co., Ltd.  
-For questions, email: [your-email@example.com]
+Built by [Samie Saheb] at Sky High International Co., Ltd.  
+For questions, email: [sahebsamie@gmail.com]
 
